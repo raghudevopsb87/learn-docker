@@ -1,2 +1,2 @@
-sleep 30
-exit 2
+tail -f /dev/null
+
