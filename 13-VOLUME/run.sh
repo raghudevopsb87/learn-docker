@@ -1,2 +1,2 @@
-echo Hello > /data/test.txt
+#echo Hello > /data/test.txt
 tail -f /dev/null
