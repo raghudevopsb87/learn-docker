@@ -1,2 +1,2 @@
-tail -f /dev/null
+sleep 1000
 
